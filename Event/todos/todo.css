@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0; 
+}
+.main{
+    width: 400px;
+    height: auto;
+    margin-left:380px ;
+    margin-top: 200px;
+    border: 2px solid green;
+}
+#input-1{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 250px;
+    height: 20px;
+}
+#ul{
+    background-color: rgb(32, 32, 55);
+    border:2px solid black;
+    color: white;
+}
+button{
+    background-color: orangered;
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+
+}
+
